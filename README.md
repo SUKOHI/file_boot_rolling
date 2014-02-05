@@ -1,4 +1,4 @@
-file_boot_roling
+file_boot_rolling
 ================
 
 PHP class to execute files by rotation
